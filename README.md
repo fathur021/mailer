@@ -75,6 +75,15 @@ Nodemailer adalah pustaka Node.js yang sangat berguna untuk mengirim email. Dala
         // Handle kesalahan
     });
     ```
+    
+    ## Kontak
+
+Jika Anda memiliki pertanyaan atau umpan balik, jangan ragu untuk menghubungi:
+
+- Email: fathur00013@gmail.com
+
+
+---
 
  
 
