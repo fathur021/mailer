@@ -1,12 +1,12 @@
 # Mailer
 
-Aplikasi Node.js sederhana yang menggunakan Nodemailer untuk mengirim email. Aplikasi ini memiliki dua fitur utama: pendaftaran pengguna menggunakan akun email uji coba dan pengiriman tagihan produk melalui akun Gmail yang sebenarnya.
+Aplikasi Node.js sederhana yang menggunakan Nodemailer untuk mengirim email. Aplikasi ini memiliki dua fitur utama: pendaftaran pengguna menggunakan akun email uji coba dan pengiriman pesan melalui akun Gmail yang sebenarnya.
 
 ## Langkah Awal
 
 ### Persyaratan
 
-1. Pastikan Node.js telah terinstal di komputer Anda.
+1. install node.js
 
 ### Instalasi
 
