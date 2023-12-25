@@ -76,8 +76,7 @@ Nodemailer adalah pustaka Node.js yang sangat berguna untuk mengirim email. Dala
     });
     ```
 
- = nodemailer.createTransport(config);
-    ```
+ 
 
 
 
