@@ -42,7 +42,7 @@ Aplikasi Node.js sederhana yang menggunakan Nodemailer untuk mengirim email. Apl
 
 ## Penggunaan Nodemailer
 
-Nodemailer adalah pustaka Node.js yang sangat berguna untuk mengirim email. Dalam aplikasi ini, kami menggunakannya untuk mengirim email uji coba dan tagihan produk.
+Nodemailer adalah pustaka Node.js yang sangat berguna untuk mengirim email. Dalam aplikasi ini, saya menggunakannya untuk mengirim email uji coba dan tagihan produk.
 
 ### Daftar Pengguna (Email Uji Coba)
 
